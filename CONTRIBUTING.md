@@ -14,3 +14,7 @@ Wir freuen uns über Rückmeldungen und Vorschläge zu neuen Ideen und Funktione
 Vielen Dank für Ihre Unterstützung!
 
 *Bitte beachten Sie, dass wir uns bemühen, alle Anfragen innerhalb von 2 Wochen zu beantworten.*
+
+---
+
+**Wichtig:** Wir schätzen die Vielfalt unserer Mitwirkenden und heißen alle willkommen!
