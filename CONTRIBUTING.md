@@ -6,7 +6,7 @@ Vielen Dank, dass Sie interessiert sind, zu diesem Projekt beizutragen! Hier sin
 Wenn Sie einen Fehler finden, öffnen Sie bitte ein Issue.
 
 ## Pull Requests
-Fühlen Sie sich frei, einen Pull Request zu öffnen, um neue Funktionen hinzuzufügen oder Fehler zu beheben. Bitte stellen Sie sicher, dass Ihr Code gut getestet ist und den Stilrichtlinien des Projekts entspricht.
+Fühlen Sie sich frei, einen Pull Request zu öffnen, um neue Funktionen hinzuzufügen oder Fehler zu beheben. Bitte stellen Sie sicher, dass Ihr Code gut getestet ist und den Stilrichtlinien des Projekts entspricht. Zudem bitten wir Sie, eine ausführliche Beschreibung Ihres Pull Requests beizufügen.
 
 ## Diskussionen
 Wir freuen uns über Rückmeldungen und Vorschläge zu neuen Ideen und Funktionen. Bitte seien Sie geduldig und erwarten Sie, dass wir zeitnah auf Ihre Anfragen reagieren.
