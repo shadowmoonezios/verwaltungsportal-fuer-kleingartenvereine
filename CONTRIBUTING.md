@@ -12,3 +12,5 @@ Fühlen Sie sich frei, einen Pull Request zu öffnen, um neue Funktionen hinzuzu
 Wir freuen uns über Rückmeldungen und Vorschläge zu neuen Ideen und Funktionen. Bitte seien Sie geduldig und erwarten Sie, dass wir zeitnah auf Ihre Anfragen reagieren. Ihre Beiträge sind für uns von großer Bedeutung!
 
 Vielen Dank für Ihre Unterstützung!
+
+*Bitte beachten Sie, dass wir uns bemühen, alle Anfragen innerhalb von 2 Wochen zu beantworten.*
