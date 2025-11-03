@@ -1,5 +1,5 @@
 MIT License
 
-Copyright (c) 2024 [Ihr Name]
+Copyright (c) 2023 [Ihr Name]
 
 Erlaubt ist, [...] (Hier folgen die Lizenzbedingungen)
